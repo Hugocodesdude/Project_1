@@ -55,13 +55,11 @@ jul,2017,USA,Kayaking,M,,N,White shark
 jul,2017,USA,Swimming,M,46,N,Bull shark
 jul,2017,MEXICO,Fishing,M,32,N,Tiger shark
 jul,2017,SOUTH AFRICA,Surfing,F,13,N,White shark
-jun,2017,USA,Fishing,M,,,No shark
 jun,2017,USA,Swimming,F,14,N,Bull shark
 jun,2017,REUNION,Body boarding,M,34,N,Bull shark
 jun,2017,AUSTRALIA,Body boarding,M,48,N,White shark
 jun,2017,BAHAMAS,Snorkeling,F,32,N,Tiger shark
 may,2017,USA,Feeding sharks,M,,N,Tiger shark
-apr,2017,USA,Photo shoot,F,,,No shark
 apr,2017,AUSTRALIA,Surfing,F,17,Y,White shark
 apr,2017,USA,Surfing,M,28,N,Tiger shark
 apr,2017,USA,Swimming,F,17,N,Bull shark
@@ -115,8 +113,6 @@ apr,2016,FRENCH POLYNESIA,Spearfishing,M,26,N,Reef shark
 apr,2016,USA,Spearfishing,M,26,N,Bull shark
 apr,2016,NEW CALEDONIA,Walking,F,69,Y,Tiger shark
 mar,2016,BAHAMAS,,M,9,N,Nurse shark
-feb,2016,CAYMAN ISLANDS,Feeding stingrays?,M,65,,No shark
-feb,2016,AUSTRALIA,Surfing,M,,,No shark
 jan,2016,USA,Surfing,M,,N,Reef shark
 jan,2016,USA,Spearfishing,M,,N,Bull shark
 jan,2016,UNITED ARAB EMIRATES,Fishing,M,,N,Mako shark
@@ -132,7 +128,6 @@ nov,2015,USA,Surfing,M,28,N,Spinner shark
 nov,2015,AUSTRALIA,Surfing,M,20,N,Bull shark
 oct,2015,SOUTH AFRICA,Surfing,M,42,N,White shark
 oct,2015,USA,Surfing,M,21,N,Spinner shark
-oct,2015,USA,Surfing,M,32,,No shark
 oct,2015,USA,Swimming,M,44,N,Tiger shark
 oct,2015,USA,Surfing,M,25,N,Tiger shark
 oct,2015,USA,Surfing,M,14,N,Blacktip shark
@@ -157,7 +152,6 @@ jul,2015,AUSTRALIA,Surfing,M,40,N,Whaler shark
 jul,2015,REUNION,Surfing,M,45,N,Bull shark
 jul,2015,SOUTH AFRICA,Surfing,M,34,N,White shark
 jul,2015,USA,Surfing,M,38,N,White shark
-jul,2015,FRENCH POLYNESIA,Swimming,M,,,No shark
 jul,2015,AUSTRALIA,Surfing,M,52,N,White shark
 jul,2015,AUSTRALIA,Body boarding ,M,32,N,White shark
 jun,2015,USA,Swimming,M,18,N,Bull shark
@@ -180,7 +174,6 @@ jun,2015,AUSTRALIA,Surf skiing ,M,71,N,White shark
 apr,2015,USA,Photographing the shark,M,48,N,Blue shark
 apr,2015,REUNION,Surfing,M,13,Y,Bull shark
 apr,2015,USA,Spearfishing,M,70,N,Bull shark
-mar,2015,BRAZIL,Surfing,M,23,,No shark
 mar,2015,SOUTH AFRICA,Kayak Fishing,M,36,N,White shark
 mar,2015,EGYPT,Swimming,M,52,Y,Mako shark
 mar,2015,USA,Standing / Snorkeling,M,58,N,Tiger shark
@@ -190,7 +183,6 @@ feb,2015,OCEAN,Transatlantic Rowing,,,N,White shark
 feb,2015,REUNION,Swimming,F,22,Y,Tiger shark
 jan,2015,AUSTRALIA,Rowing,M,57,N,Bull shark
 jan,2015,USA,Fishing,M,,N,White shark
-jan,2015,USA,Swimming after falling overboard,M,38,,No shark
 jan,2015,BAHAMAS,Snorkeling,F,34,N,White shark
 jan,2015,SOUTH AFRICA,Surfing,M,15,N,Raggedtooth shark
 jan,2015,USA,,M,12,N,Unidentified Shark Type
@@ -208,7 +200,6 @@ oct,2014,USA,Kayaking,M,,N,White shark
 oct,2014,USA,Kayaking ,M,,N,White shark
 oct,2014,AUSTRALIA,Surfing,M,23,N,White shark
 sep,2014,FRENCH POLYNESIA,Feeding fish,F,36,N,Blacktip shark
-sep,2014,USA,Surfing,M,,,No shark
 sep,2014,USA,Fishing ,M,43,N,Bull shark
 sep,2014,USA,Kayaking ,F,20,N,White shark
 aug,2014,USA,Body surfing,F,13,N,Spinner shark
@@ -231,12 +222,10 @@ jun,2014,USA,Tagging sharks,F,37,N,Reef shark
 may,2014,AUSTRALIA,Fell into the water,F,29,N,Bull shark
 may,2014,AUSTRALIA,Teasing a shark,M,10,N,Nurse shark
 may,2014,AUSTRALIA,Surfing,M,35,N,White shark
-may,2014,USA,Diving,M,,,No shark
 apr,2014,AUSTRALIA,Spearfishing,M,,N,Reef shark
 apr,2014,SOUTH AFRICA,Shark watching,,,N,White shark
 apr,2014,SOUTH AFRICA,Fishing,M,,N,Raggedtooth shark
 apr,2014,AUSTRALIA,Swimming,F,63,Y,White shark
-mar,2014,AUSTRALIA,,F,10,,No shark
 mar,2014,AUSTRALIA,Swimming,M,,N,Wobbegong shark
 mar,2014,USA,Surfing,M,21,N,Spinner shark
 feb,2014,FRENCH POLYNESIA,Kitesurfing,M,21,N,Reef shark
@@ -265,7 +254,6 @@ oct,2013,USA,Wading,M,12,N,Bull shark
 sep,2013,USA,Swimming,M,21,N,Bull shark
 sep,2013,USA,,M,3,N,Nurse shark
 aug,2013,BAHAMAS,Spearfishing,M,,N,Blacktip shark
-aug,2013,USA,Marathon swimming,F,47,,No shark
 aug,2013,FRANCE,Longline fishing for sharks,M,50,N,Mako shark
 aug,2013,USA,Surfing,F,,N,White shark
 aug,2013,USA,Snorkeling,F,20,Y,Tiger shark
@@ -285,7 +273,6 @@ apr,2013,AUSTRALIA,Fishing,M,51,N,Nurse shark
 apr,2013,SOUTH AFRICA,Free diving,M,,N,Blue shark
 apr,2013,USA,Surfing,M,21,N,Bull shark
 apr,2013,FRENCH POLYNESIA,Kite boarding,M,53,N,Reef shark
-mar,2013,AUSTRALIA,Surfing,M,47,,No shark
 mar,2013,BELIZE,Snorkeling,F,,N,Nurse shark
 mar,2013,SOUTH AFRICA,Fishing - 'tag & release',M,30,N,Raggedtooth shark
 mar,2013,JAMAICA,Spearfishing,M,68,Y,Tiger shark
@@ -303,7 +290,6 @@ dec,2012,AUSTRALIA,Paddle boarding,M,29,N,Bull shark
 dec,2012,SOUTH AFRICA,Swimming,M,20,Y,Tiger shark
 dec,2012,AUSTRALIA,Surfing,M,32,N,Tiger shark
 nov,2012,USA,Snorkeling,M,61,N,Tiger shark
-nov,2012,AUSTRALIA,,M,20,,No shark
 nov,2012,USA,Diving,M,30,N,Tiger shark
 nov,2012,USA,Surfing,M,43,N,Tiger shark
 oct,2012,USA,Surfing,M,25,N,White shark
@@ -317,10 +303,8 @@ aug,2012,FRENCH POLYNESIA,Spearfishing,M,,N,Lemon shark
 jul,2012,AUSTRALIA,Surfing,M,48,N,White shark
 jul,2012,USA,Body surfing,M,50,N,White shark
 jul,2012,AUSTRALIA,Surfing,M,24,Y,White shark
-jun,2012,CROATIA,Swimming,,60,,No shark
 jun,2012,USA,Swimming,M,6,N,Bull shark
 jun,2012,USA,Sitting in the water,F,16,N,Reef shark
-jun,2012,USA,Standing,M,16,,No shark
 jun,2012,USA,Fishing,M,23,N,Nurse shark
 jun,2012,USA,Swimming,F,18,N,Blacktip shark
 jun,2012,USA,Swimming,M,,N,Blacktip shark
@@ -358,7 +342,6 @@ oct,2011,USA,Surfing,M,27,N,White shark
 oct,2011,SOUTH AFRICA,Diving,,,N,Raggedtooth shark
 oct,2011,AUSTRALIA,Diving,M,32,Y,White shark
 oct,2011,USA,Surfing,M,41,N,White shark
-sep,2011,USA,Surfing,M,27,,No shark
 sep,2011,SOUTH AFRICA,Swimming,M,43,N,White shark
 sep,2011,USA,Spearfishing,M,21,N,Bull shark
 sep,2011,PAPUA NEW GUINEA,Kite Surfing,M,30,N,Tiger shark
@@ -421,7 +404,6 @@ jan,2010,SOUTH AFRICA,Standing,M,37,Y,White shark
 jan,2010,AUSTRALIA,Snorkeling,F,9,N,Reef shark
 dec,2009,MOZAMBIQUE,Swimming,M,27,N,Zambesi shark
 dec,2009,AUSTRALIA,Spearfishing,M,18,N,Bull shark
-dec,2009,SOUTH AFRICA,Surfing,M,,,No shark
 dec,2009,NEW ZEALAND,Swimming to shore from capsized kayak,M,24,Y,White shark
 dec,2009,AUSTRALIA,Rowing,,,N,White shark
 oct,2009,AUSTRALIA,Kayaking,M,27,N,White shark
@@ -461,7 +443,6 @@ jan,2009,AUSTRALIA,Surfing,F,13,N,White shark
 jan,2009,AUSTRALIA,Surfing,M,31,N,White shark
 jan,2009,NEW ZEALAND,Fishing,,,N,Mako shark
 ,2009,CUBA,Spearfishing,,,N,Bull shark
-dec,2008,AUSTRALIA,Crabbing,,,,No shark
 dec,2008,AUSTRALIA,Kayaking,M,29,N,White shark
 dec,2008,AUSTRALIA,Snorkeling,M,51,Y,White shark
 dec,2008,USA,Kayaking,M,,N,White shark
@@ -504,7 +485,6 @@ mar,2008,USA,Surfing,M,27,N,White shark
 feb,2008,BAHAMAS,Diving,M,49,Y,Bull shark
 jan,2008,SOUTH AFRICA,Surf-skiing,M,42,N,Blacktip shark
 jan,2008,AUSTRALIA,Accidentally stood on hooked shark's tail before attempting to gut it ,M,20,N,Mako shark
-jan,2008,NEW ZEALAND,Wading,M,,,No shark
 jan,2008,NEW ZEALAND,Attempting to chase shark out to sea,,,N,Whaler shark
 jan,2008,USA,Surfing,M,20,N,Unidentified Shark Type
 ,2008,USA,Fishing for snapper,M,,N,Nurse shark
@@ -554,7 +534,6 @@ nov,2006,SOUTH AFRICA,Canoeing,M,,N,Bull shark
 oct,2006,USA,Surfing,M,22,N,White shark
 sep,2006,USA,Diving / Kissing the shark,M,,N,Nurse shark
 sep,2006,USA,Swimming,M,55,N,Spinner shark
-sep,2006,AUSTRALIA,Diving,M,44,,No shark
 sep,2006,SOUTH AFRICA,Surfing,M,37,N,White shark
 aug,2006,AUSTRALIA,Surfing,M,,N,Whaler shark
 aug,2006,SOUTH AFRICA,Lifesaving drill,M,24,N,White shark
@@ -603,7 +582,6 @@ sep,2005,USA,Wading,F,18,N,Bull shark
 sep,2005,AUSTRALIA,Surfing,M,40,N,White shark
 aug,2005,AUSTRALIA,Scuba diving,M,23,Y,White shark
 aug,2005,USA,Surfing,M,37,N,White shark
-jul,2005,AUSTRALIA,,,,,No shark
 jun,2005,USA,Fishing,M,16,N,Bull shark
 jun,2005,USA,Swimming with boogie board,F,14,Y,Bull shark
 jun,2005,SOUTH KOREA,Diving,F,38,N,White shark
@@ -626,7 +604,6 @@ feb,2005,USA,Surfing,M,,N,Tiger shark
 feb,2005,USA,Spearfishing,M,,N,Reef shark
 jan,2005,AUSTRALIA,Attempting to drive shark away from sailing regatta,,,N,Whaler shark
 jan,2005,NEW ZEALAND,Fishing from a kayak,M,39,N,White shark
-dec,2004,SRI LANKA,"Swept out to sea by the tsunami, she clung  to a log for 24 hours",F,11,,No shark
 dec,2004,AUSTRALIA,Scurfing (surfboard being  towed behind a boat),M,18,Y,White shark
 dec,2004,AUSTRALIA,Spearfishing,M,38,Y,Bull shark
 nov,2004,SOUTH AFRICA,Surfing,M,20,N,Raggedtooth shark
